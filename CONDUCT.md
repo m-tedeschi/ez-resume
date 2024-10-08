@@ -60,11 +60,69 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-[INSERT CONTACT METHOD].
+joe_mazzone@uri.edu.
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
+
+## Decisons 
+
+Decisions of the group will be made in a consensus so there can be common agreement. 
+
+## Attendance
+
+Attendance for all team meetings are required unless there is a valid reason why. 
+If you will not be present for a meeting, ensure that the SCRUM master knows 24 hours in 
+advance before the meeting, unless it is emergency. 
+Examples of valid reasons for missing a meeting include:
+
+  -Illness/Injury
+  -Family Emergency 
+  -Religious Observance
+  -Technical Difficulties (If meeting remote)
+
+If a mamber of the group misses a meeting, meet with the SCRUM master and ensure they get informed of 
+what they missed. 
+
+## Assignments
+
+We will ensure that members of the group get an even amount of work to do for the project. 
+Members who do not complete their part or do it poorly will be asked to do it again. If 
+the issue presists, the instructors will be notified. 
+
+## Participation
+
+We will be communcating our information through various platforms. Participation will be ensured so that
+regarding every task for a sprint, everyone will do an even amount of work in some capacity. Members will
+be assigned tasks based on their skills and interests of the task at hand. 
+
+## Meeting Times and Locations/Mediums
+
+We will coordinate ahead of time whether the meeting will be in person or online. 
+We want to accomodate for all of the members schedules and come to a consensus for 
+meeting times. 
+### During all team meetings phones are not to be used as a distraction at any point in time
+
+## Agenda and Minutes/Notes
+
+Notes for the project will be taken via a shared Google Doc which all members have access to. 
+
+## Promptness 
+
+Excessive lateness will not be tolerated. If you are going to be late, ensure the SCRUM master knows 
+before the meeting starts 
+
+## Conversational Courtesies 
+
+During meetings, all members should be courtious and respectful of other members ideas. We  encourage to have 
+all members ideas brought to light with no disrepsect towards them. 
+
+## Enforcement/Feedback
+
+The team will enforce its own rules by being diligent in regards to the project material and will ensure 
+they follow the guidelines. Give feedback as necessary which benefits the member and enourages them to improve
+when necessary. 
 
 ## Enforcement Guidelines
 
@@ -130,3 +188,5 @@ For answers to common questions about this code of conduct, see the FAQ at
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
+
+# Member Signatures 
