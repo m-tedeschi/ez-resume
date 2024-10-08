@@ -189,4 +189,6 @@ For answers to common questions about this code of conduct, see the FAQ at
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
 
-# Member Signatures 
+# Member Signatures
+![alt text](https://github.com/m-tedeschi/ez-resume/blob/main/images/parker%20signature.jpg)
+
