@@ -190,5 +190,6 @@ For answers to common questions about this code of conduct, see the FAQ at
 [translations]: https://www.contributor-covenant.org/translations
 
 # Member Signatures
+Parker Fortin 
 ![alt text](https://github.com/m-tedeschi/ez-resume/blob/main/images/parker%20signature.jpg)
 
