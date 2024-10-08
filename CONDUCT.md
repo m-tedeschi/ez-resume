@@ -193,3 +193,6 @@ For answers to common questions about this code of conduct, see the FAQ at
 Parker Fortin 
 ![alt text](https://github.com/m-tedeschi/ez-resume/blob/main/images/parker%20signature.jpg)
 
+
+Michael Tedeschi<br>
+![alt text](https://github.com/m-tedeschi/ez-resume/blob/main/images/mt-signature.png)
