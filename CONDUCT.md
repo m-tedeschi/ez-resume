@@ -196,3 +196,7 @@ Parker Fortin
 
 Michael Tedeschi<br>
 ![alt text](https://github.com/m-tedeschi/ez-resume/blob/main/images/mt-signature.png)
+
+Habiba Ghazi
+![alt text](https://github.com/m-tedeschi/ez-resume/blob/main/images/sign.jpg)
+
