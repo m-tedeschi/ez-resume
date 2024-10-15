@@ -14,3 +14,7 @@
     that it would save time and help align their resumes with job requirements in fields like tech, healthcare, and finance.
    * Team Action: Prioritize creating customizable templates for different industries.
 
+Observation 4 (Bitanya): 
+  * Observation Statement:  Creating, updating, and editing resumes seems to be the most desired end result.
+  * Supporting Data: Approximately 19% of respondents indicated that Skill Translation Suggestions should be included in our minimum viable product list.
+  * Team Action: Gladly fulfilling the wishes of our customers.
