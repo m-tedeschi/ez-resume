@@ -200,3 +200,6 @@ Michael Tedeschi<br>
 Habiba Ghazi
 ![alt text](https://github.com/m-tedeschi/ez-resume/blob/main/images/sign.jpg)
 
+Bitanya Hailu 
+![alt text](https://github.com/m-tedeschi/ez-resume/blob/main/images/Bitanya's%20signature.jpg)
+
