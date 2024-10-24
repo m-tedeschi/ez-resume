@@ -6,6 +6,8 @@ We want to be able to have open ended feedback for our app so we can easily see 
 - Metric 1: User app reviews so we can easily analyze user feedback after our app releases
 
 # Adoption
+User should be signing up and starting to use the core feature of the app (signups and usage)
+- Metric 1: We are going to track how many users are signing up via Firebase Authentication
 
 # DAU
 
