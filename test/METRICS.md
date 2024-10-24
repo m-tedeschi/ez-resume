@@ -14,6 +14,11 @@ We want to track how many users are actively engaging with the app on a daily ba
 - Metric 1: We will use Firebase Analytics to track daily active users by logging a session event each time a user logs into the app and interacts with any feature.
             This will give us insights into how often users are engaging with the app each day.
 
-# Retention
+# Retention  
+Users want to come back and create more resumes
+- Metric 1: The Click-Through Rate (CTR) for resume downloads is measured.
+- Metric 2: We keep track of the number of logins.
+- Metric 3: The number of profile edits made by users is also tracked.
+
 
 # CTR 
