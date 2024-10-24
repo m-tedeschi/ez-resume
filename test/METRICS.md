@@ -9,7 +9,10 @@ We want to be able to have open ended feedback for our app so we can easily see 
 User should be signing up and starting to use the core feature of the app (signups and usage)
 - Metric 1: We are going to track how many users are signing up via Firebase Authentication
 
-# DAU
+# DAU (Daily Active Users)
+We want to track how many users are actively engaging with the app on a daily basis, specifically to monitor usage of key features like resume creation and editing.
+- Metric 1: We will use Firebase Analytics to track daily active users by logging a session event each time a user logs into the app and interacts with any feature.
+            This will give us insights into how often users are engaging with the app each day.
 
 # Retention
 
