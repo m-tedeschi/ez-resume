@@ -20,5 +20,7 @@ Users want to come back and create more resumes
 - Metric 2: We keep track of the number of logins.
 - Metric 3: The number of profile edits made by users is also tracked.
 
-
-# CTR 
+# CTR
+Analyzing the number of resumes downloaded
+ - Checking quantitative numbe of resume generated/downloaded
+   
