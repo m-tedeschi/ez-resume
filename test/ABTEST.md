@@ -21,3 +21,37 @@
   Design: The current design displays all form fields in a single, scrollable page format, with no progress indicator.
   CTA Placement: The "Download Resume" button is placed at the end of the form, which users can only see once they complete all fields.
   Potential Issues: Users may feel overwhelmed by the number of fields presented at once and may abandon the process due to a lack of feedback on their progress.
+
+
+# A/B Test 2: Simplify Account Creation to Boost Signup Completion
+User Story 1
+
+Metric: Adoption rate to track the number of users who complete the account creation process.
+
+## Hypothesis
+
+Many users begin the account creation process but do not complete it, leading to lower user adoption. Tracking data shows that users often drop off when asked to fill in multiple fields on a single page. This suggests that presenting all required information at once might be overwhelming or time-consuming. By breaking the account creation process into a two-step flow, we hypothesize that users will feel less burdened and be more likely to complete their signup. Improving the signup completion rate will increase user adoption, allowing more users to access and benefit from the app.
+
+## Experiment
+
+We will allocate 50% of our new user base to the experiment, with 25% in the control group (single-page layout) and 25% in the treatment group (two-step layout). This even split will allow us to gather clear insights while maintaining enough users in each group to achieve statistical significance.
+
+Firebase Capabilities Utilized
+
+Firebase Remote Config: Allows us to toggle between the control and treatment interfaces in real-time, facilitating a seamless A/B test without requiring a new app version release.
+Firebase A/B Testing: Provides Firebase’s built-in functionality to manage and analyze the experiment, ensuring accurate results.
+Firebase Analytics: Tracks user engagement and completion rates for each signup variation, helping us assess the effectiveness of the experiment.
+Variation
+
+## Variation
+
+Variation 1: Control (Single-Page Layout)
+Design: Users see all required fields (e.g., email, password, profile setup) on one scrollable page.
+CTA Placement: The "Create Account" button appears at the bottom, only accessible once all fields are completed.
+Potential Issues: Users may feel overwhelmed by the length of the form, leading to a higher abandonment rate.
+Variation 2: Treatment (Two-Step Layout)
+
+Design: Breaks the account creation process into two steps — Step 1 gathers essential information (email and password), and Step 2 gathers profile details.
+Progress Indicator: A simple progress bar at the top indicates how far along users are in the signup process.
+CTA Placement: The "Next" button is used after Step 1, and the "Create Account" button is presented at the end of Step 2.
+Expected Outcome: A two-step process should make the signup flow feel less overwhelming, encouraging users to complete the process.
