@@ -73,7 +73,7 @@ Firebase Remote Config: To toggle between multiple buttons and a single button i
 Firebase A/B Testing: Manages the experiment and validates statistical results.
 Firebase Analytics: Tracks completion rates, time spent on each section, and drop-offs, providing insights into the effectiveness of each layout.
 
-##Variation
+## Variation
 
 Variation 1: Control (Multiple Section Buttons)
 Design: Users see separate buttons for "Add Education," "Add Experience," "Add Skills," and "Add Certifications."
