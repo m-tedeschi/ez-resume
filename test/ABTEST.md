@@ -83,3 +83,32 @@ Potential Issues: Users might experience decision fatigue or find the process le
 Variation 2: Treatment (Single "Add Experience" Button)
 Design: A single "Add Experience" button directs users to a unified form where they can select the type of entry they want to add.
 Expected Outcome: A consolidated approach may make the flow smoother, encouraging users to complete the resume setup with fewer drop-offs.
+# A/B Test 4: Improve Resume View & Download (Michael Tedeschi)
+User Story: 4
+
+Metric: Retention & Happiness -- prompt the user after a resume is created: "How easy was it to view your new resume?"
+
+## Hypothesis
+Users might not fully want to download a resume as .PDF file right away and would rather view it in-app / in-browser. This could increase retention and happiness (better User Experience). 
+
+## Experiment
+25% of all users will receive a variation of the app that allows them to view their resume in-app / in-browser, without having to explicitly download the file right away. The Control user group (remaining 75%) will receive the regular version of the app, where resumes are generated and downloaded instantly, without preview.
+
+Firebase Capabilities Utilized
+
+Firebase Remote Config: to toggle between enabling in-app preview and no preview.
+Firebase A/B Testing: Manages the experiment and validates statistical results.
+Firebase Analytics: After users in each group finish a resume, ask them how easy it was to view the new resume and track this metric in both groups.
+
+## Variation
+
+Variation 1: Control (App does not preview, and automatically prompts the user to save their resume to view it)
+Design: Users click "Download Resume" button and it prompts them to save it in a location on their device.
+CTA Placement: user automatically downloads their resume after hitting "Download" (or "Create") button.
+Potential Issues: Users might not want to save their resume right away, or have to do this to preview their document.
+
+Variation 2: Experimental Preview (User sees their resume generated in-app / in-browser, with a "Download" button nearby)
+Design: The resume appears as an embedded PDF file in their browser / app. A "Download" button is conveniently located nearby for file saving.
+CTA PLacement: User has a button near the embedded resume to Download the resume if they like the document preview.
+Expected Outcome: The user experience is improved because the user doesn't have to download the file to see the result. They already know if they're satisified or not.
+
