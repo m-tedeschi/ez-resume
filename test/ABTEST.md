@@ -61,10 +61,10 @@ User Story: 3
 
 Metric: Task Completion Rate to track the number of users who successfully add all required resume sections.
 
-##Hypothesis
+## Hypothesis
 Users might feel overwhelmed or uncertain when selecting specific sections (Education, Experience, Skills, Certifications) individually, leading to incomplete resumes. By consolidating the "Add Experience" actions into a single button that allows users to choose the type of content within the form, we hypothesize that users will find the process more intuitive and complete their resumes more efficiently.
 
-##Experiment
+## Experiment
 We will allocate 50% of users to the experiment, with 25% in the control group (multiple buttons for each section) and 25% in the treatment group (single "Add Experience" button with in-form selection). This distribution ensures a statistically significant comparison without impacting overall user experience.
 
 Firebase Capabilities Utilized
