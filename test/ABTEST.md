@@ -55,3 +55,31 @@ Design: Breaks the account creation process into two steps — Step 1 gathers es
 Progress Indicator: A simple progress bar at the top indicates how far along users are in the signup process.
 CTA Placement: The "Next" button is used after Step 1, and the "Create Account" button is presented at the end of Step 2.
 Expected Outcome: A two-step process should make the signup flow feel less overwhelming, encouraging users to complete the process.
+
+# A/B Test 3: Improve "Add Experience" Section Usability
+User Story: 3
+
+Metric: Task Completion Rate to track the number of users who successfully add all required resume sections.
+
+##Hypothesis
+Users might feel overwhelmed or uncertain when selecting specific sections (Education, Experience, Skills, Certifications) individually, leading to incomplete resumes. By consolidating the "Add Experience" actions into a single button that allows users to choose the type of content within the form, we hypothesize that users will find the process more intuitive and complete their resumes more efficiently.
+
+##Experiment
+We will allocate 50% of users to the experiment, with 25% in the control group (multiple buttons for each section) and 25% in the treatment group (single "Add Experience" button with in-form selection). This distribution ensures a statistically significant comparison without impacting overall user experience.
+
+Firebase Capabilities Utilized
+
+Firebase Remote Config: To toggle between multiple buttons and a single button interface.
+Firebase A/B Testing: Manages the experiment and validates statistical results.
+Firebase Analytics: Tracks completion rates, time spent on each section, and drop-offs, providing insights into the effectiveness of each layout.
+
+##Variation
+
+Variation 1: Control (Multiple Section Buttons)
+Design: Users see separate buttons for "Add Education," "Add Experience," "Add Skills," and "Add Certifications."
+CTA Placement: Each button directs users to its respective form.
+Potential Issues: Users might experience decision fatigue or find the process less intuitive.
+
+Variation 2: Treatment (Single "Add Experience" Button)
+Design: A single "Add Experience" button directs users to a unified form where they can select the type of entry they want to add.
+Expected Outcome: A consolidated approach may make the flow smoother, encouraging users to complete the resume setup with fewer drop-offs.
