@@ -84,7 +84,7 @@ Variation 2: Treatment (Single "Add Experience" Button)
 Design: A single "Add Experience" button directs users to a unified form where they can select the type of entry they want to add.
 Expected Outcome: A consolidated approach may make the flow smoother, encouraging users to complete the resume setup with fewer drop-offs.
 # A/B Test 4: Improve Resume View & Download (Michael Tedeschi)
-User Story: 4
+User Story: 4 (Golden Path -- user experience improvement)
 
 Metric: Retention & Happiness -- prompt the user after a resume is created: "How easy was it to view your new resume?"
 
