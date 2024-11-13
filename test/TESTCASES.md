@@ -1,6 +1,8 @@
 # TESTCASES.md
 * <link> US 1: User Account Creation
+https://docs.google.com/presentation/d/12FjGwVAyVxJyII5L-N9VCN5vvO3m_Gg2CxBy0R42btQ/edit?usp=sharing
 * <link> US 2: User Login
+https://docs.google.com/presentation/d/12FjGwVAyVxJyII5L-N9VCN5vvO3m_Gg2CxBy0R42btQ/edit?usp=sharing
 * <link> US 3: Backend Management (Michael Tedeschi)
 https://docs.google.com/presentation/d/12FjGwVAyVxJyII5L-N9VCN5vvO3m_Gg2CxBy0R42btQ/edit?usp=sharing
 * <link> US 4: Golden Path
