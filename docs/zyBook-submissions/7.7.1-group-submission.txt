@@ -1,0 +1,15 @@
+Team Number >> 2
+
+Github Repo with Files >> https://github.com/m-tedeschi/ez-resume
+
+Firebase Project URL >> https://console.firebase.google.com/u/0/project/ez-resume-hmpgul/overview
+
+FlutterFlow Project URL >> https://app.flutterflow.io/project/ez-resume-hmpgul
+
+Persona grids doc URL >> https://docs.google.com/presentation/d/1G-2ijevxdIFH_Phu5Lx7LvQ5MQ8wtSJyJGa70Lzc7ew/edit?usp=sharing
+
+Lean canvas business model doc URL >> https://docs.google.com/presentation/d/10su-Y38C43DCvEzyDvzoO8hZz7XWhNwuwKUxn7bu8D0/edit?usp=sharing
+
+User research survey URL >> https://forms.gle/W29NBRmoSGSH37co8
+
+Survery results Google Sheets URL >> https://docs.google.com/spreadsheets/d/1EfK0Te2pE5VCWmq7H2frtNXZYlXKY8pzOr3Gi_DF47c/edit?usp=sharing
