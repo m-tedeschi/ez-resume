@@ -1,0 +1,8 @@
+[
+    {
+      "origin": ["https://ff-debug-service-frontend-free-ygxkweukma-uc.a.run.app", "https://ez-resume-hmpgul.flutterflow.app"],
+      "method": ["GET", "HEAD", "OPTIONS"],
+      "responseHeader": ["Content-Type"],
+      "maxAgeSeconds": 3600
+    }
+  ]

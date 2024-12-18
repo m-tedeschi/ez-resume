@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "349287858566",
+    "project_id": "ez-resume-hmpgul",
+    "storage_bucket": "ez-resume-hmpgul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349287858566:android:312926707dbc2c2ddd2c07",
+        "android_client_info": {
+          "package_name": "com.mycompany.ezresume"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXGFuLG_w1Ted_8aCle-wGNULP2SLPkew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349287858566:android:a18a9e73cd93c6e7dd2c07",
+        "android_client_info": {
+          "package_name": "com.uricsc305.ezresume"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXGFuLG_w1Ted_8aCle-wGNULP2SLPkew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
