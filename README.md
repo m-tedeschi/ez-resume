@@ -1,6 +1,6 @@
 ******EZ Resume******
 
-# A. Overview
+# Overview:
 EZ Resume is an app developed by our 305Soft team that will utilize [Jake's Resume Template](https://github.com/jakegut/resume) to generate beautiful resumes with ease.
 
 **Purpose:**
