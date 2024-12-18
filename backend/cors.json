@@ -1,8 +1,0 @@
-[
-    {
-      "origin": ["https://ff-debug-service-frontend-free-ygxkweukma-uc.a.run.app"],
-      "method": ["GET", "HEAD", "OPTIONS"],
-      "responseHeader": ["Content-Type"],
-      "maxAgeSeconds": 3600
-    }
-  ]
